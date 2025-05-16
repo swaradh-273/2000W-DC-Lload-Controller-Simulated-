@@ -16,6 +16,7 @@ This project simulates a 2000W load controller using a buck converter topology. 
 
 
 
+
 ## ⚙️ Key Components
 - **Inductor, Diode, MOSFET** – Buck converter topology
 - **ATmega328P** – Simulated controller for PWM signal
