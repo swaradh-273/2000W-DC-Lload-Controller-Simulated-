@@ -1,0 +1,1 @@
+Uploaded simulated schematic of 2000W buck converter with ATmega328P control
