@@ -12,10 +12,7 @@ This project simulates a 2000W load controller using a buck converter topology. 
 - Microcontroller (ATmega328P) used for PWM-based switching (planned, not implemented)
 
 ## 📐 Circuit Schematic
-![2000W Circuit Schematic](https://github.com/swaradh-273/2000W-DC-Lload-Controller-Simulated/blob/main/images/2000w%20schmatic.png?raw=true)
-
-
-
+![2000W Circuit Schematic](https://github.com/swaradh-273/2000W-DC-Lload-Controller-Simulated-/blob/main/images/2000w%20schmatic.png?raw=true)
 
 ## ⚙️ Key Components
 - **Inductor, Diode, MOSFET** – Buck converter topology
